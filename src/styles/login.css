@@ -1,0 +1,19 @@
+
+.background-img-of-login{
+    background-image:url(https://image.shutterstock.com/image-vector/modern-abstract-background-shades-yellow-260nw-1737565211.jpg)
+
+}
+.login{
+    background-color: #f6fcf8;
+    width:35%;
+    height:550px;
+    margin-left:40px;
+    margin-top: 30px;
+    border-radius:12px;
+   
+}
+form{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
